@@ -1,0 +1,5 @@
+Assumption:
+1. # of dimensions : 2 - 15
+2. # of dataponts : 2 - 50
+3. each catergory is unique, no need to merge
+4. no dirty data
